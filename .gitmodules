@@ -1,0 +1,153 @@
+[submodule "cg-use-everywhere"]
+	path = cg-use-everywhere
+	url = https://github.com/chrisgoringe/cg-use-everywhere
+[submodule "comfy-image-saver"]
+	path = comfy-image-saver
+	url = https://github.com/giriss/comfy-image-saver
+[submodule "ComfyUI-Advanced-ControlNet"]
+	path = ComfyUI-Advanced-ControlNet
+	url = https://github.com/Kosinkadink/ComfyUI-Advanced-ControlNet
+[submodule "ComfyUI-Allor"]
+	path = ComfyUI-Allor
+	url = https://github.com/Nourepide/ComfyUI-Allor
+[submodule "ComfyUI-AnimateDiff-Evolved"]
+	path = ComfyUI-AnimateDiff-Evolved
+	url = https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved.git
+[submodule "ComfyUI-BRIA_AI-RMBG"]
+	path = ComfyUI-BRIA_AI-RMBG
+	url = https://github.com/ZHO-ZHO-ZHO/ComfyUI-BRIA_AI-RMBG.git
+[submodule "ComfyUI-CogVideoX-MZ"]
+	path = ComfyUI-CogVideoX-MZ
+	url = https://github.com/MinusZoneAI/ComfyUI-CogVideoX-MZ
+[submodule "ComfyUI-CogVideoXWrapper"]
+	path = ComfyUI-CogVideoXWrapper
+	url = https://github.com/kijai/ComfyUI-CogVideoXWrapper
+[submodule "ComfyUI-Custom-Scripts"]
+	path = ComfyUI-Custom-Scripts
+	url = https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+[submodule "comfyui-dream-project"]
+	path = comfyui-dream-project
+	url = https://github.com/alt-key-project/comfyui-dream-project
+[submodule "ComfyUI-Easy-Use"]
+	path = ComfyUI-Easy-Use
+	url = https://github.com/yolain/ComfyUI-Easy-Use
+[submodule "ComfyUI-Fans"]
+	path = ComfyUI-Fans
+	url = https://github.com/uarefans/ComfyUI-Fans
+[submodule "ComfyUI-Frame-Interpolation"]
+	path = ComfyUI-Frame-Interpolation
+	url = https://github.com/Fannovel16/ComfyUI-Frame-Interpolation
+[submodule "ComfyUI-GGUF"]
+	path = ComfyUI-GGUF
+	url = https://github.com/city96/ComfyUI-GGUF.git
+[submodule "ComfyUI-Impact-Pack"]
+	path = ComfyUI-Impact-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Impact-Pack
+[submodule "comfyui-inpaint-nodes"]
+	path = comfyui-inpaint-nodes
+	url = https://github.com/Acly/comfyui-inpaint-nodes
+[submodule "ComfyUI-Inspire-Pack"]
+	path = ComfyUI-Inspire-Pack
+	url = https://github.com/ltdrdata/ComfyUI-Inspire-Pack
+[submodule "ComfyUI-KJNodes"]
+	path = ComfyUI-KJNodes
+	url = https://github.com/kijai/ComfyUI-KJNodes
+[submodule "ComfyUI-layerdiffuse"]
+	path = ComfyUI-layerdiffuse
+	url = https://github.com/huchenlei/ComfyUI-layerdiffuse
+[submodule "ComfyUI-layerdiffusion"]
+	path = ComfyUI-layerdiffusion
+	url = https://github.com/huchenlei/ComfyUI-layerdiffusion
+[submodule "ComfyUI-Logic"]
+	path = ComfyUI-Logic
+	url = https://github.com/theUpsider/ComfyUI-Logic
+[submodule "ComfyUI-Lora-Auto-Trigger-Words"]
+	path = ComfyUI-Lora-Auto-Trigger-Words
+	url = https://github.com/idrirap/ComfyUI-Lora-Auto-Trigger-Words
+[submodule "ComfyUI-Manager"]
+	path = ComfyUI-Manager
+	url = https://github.com/ltdrdata/ComfyUI-Manager.git
+[submodule "comfyui-ollama"]
+	path = comfyui-ollama
+	url = https://github.com/stavsap/comfyui-ollama.git
+[submodule "ComfyUI-PyramidFlowWrapper"]
+	path = ComfyUI-PyramidFlowWrapper
+	url = https://github.com/kijai/ComfyUI-PyramidFlowWrapper.git
+[submodule "comfyui-tooling-nodes"]
+	path = comfyui-tooling-nodes
+	url = https://github.com/Acly/comfyui-tooling-nodes
+[submodule "comfyui-various"]
+	path = comfyui-various
+	url = https://github.com/jamesWalker55/comfyui-various
+[submodule "ComfyUI-VideoHelperSuite"]
+	path = ComfyUI-VideoHelperSuite
+	url = https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite
+[submodule "ComfyUI-WD14-Tagger"]
+	path = ComfyUI-WD14-Tagger
+	url = https://github.com/pythongosssss/ComfyUI-WD14-Tagger
+[submodule "ComfyUI_bitsandbytes_NF4"]
+	path = ComfyUI_bitsandbytes_NF4
+	url = https://github.com/comfyanonymous/ComfyUI_bitsandbytes_NF4
+[submodule "ComfyUI_Comfyroll_CustomNodes"]
+	path = ComfyUI_Comfyroll_CustomNodes
+	url = https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes
+[submodule "comfyui_controlnet_aux"]
+	path = comfyui_controlnet_aux
+	url = https://github.com/Fannovel16/comfyui_controlnet_aux
+[submodule "ComfyUI_essentials"]
+	path = ComfyUI_essentials
+	url = https://github.com/cubiq/ComfyUI_essentials
+[submodule "ComfyUI_Fill-Nodes"]
+	path = ComfyUI_Fill-Nodes
+	url = https://github.com/filliptm/ComfyUI_Fill-Nodes
+[submodule "ComfyUI_FizzNodes"]
+	path = ComfyUI_FizzNodes
+	url = https://github.com/FizzleDorf/ComfyUI_FizzNodes
+[submodule "ComfyUI_Fooocus_KSampler"]
+	path = ComfyUI_Fooocus_KSampler
+	url = https://github.com/hustille/ComfyUI_Fooocus_KSampler
+[submodule "ComfyUI_GradientDeepShrink"]
+	path = ComfyUI_GradientDeepShrink
+	url = https://github.com/kinfolk0117/ComfyUI_GradientDeepShrink
+[submodule "ComfyUI_IPAdapter_plus"]
+	path = ComfyUI_IPAdapter_plus
+	url = https://github.com/cubiq/ComfyUI_IPAdapter_plus
+[submodule "ComfyUI_JPS-Nodes"]
+	path = ComfyUI_JPS-Nodes
+	url = https://github.com/JPS-GER/ComfyUI_JPS-Nodes
+[submodule "ComfyUI_LayerStyle"]
+	path = ComfyUI_LayerStyle
+	url = https://github.com/chflame163/ComfyUI_LayerStyle
+[submodule "ComfyUI_restart_sampling"]
+	path = ComfyUI_restart_sampling
+	url = https://github.com/ssitu/ComfyUI_restart_sampling
+[submodule "ComfyUI_UltimateSDUpscale"]
+	path = ComfyUI_UltimateSDUpscale
+	url = https://github.com/ssitu/ComfyUI_UltimateSDUpscale
+[submodule "ComfyUI_UNet_bitsandbytes_NF4"]
+	path = ComfyUI_UNet_bitsandbytes_NF4
+	url = https://github.com/DenkingOfficial/ComfyUI_UNet_bitsandbytes_NF4
+[submodule "comfy_mtb"]
+	path = comfy_mtb
+	url = https://github.com/melMass/comfy_mtb
+[submodule "comfy_sd_krita_plugin_nodes"]
+	path = comfy_sd_krita_plugin_nodes
+	url = https://github.com/JasonS09/comfy_sd_krita_plugin_nodes
+[submodule "Derfuu_ComfyUI_ModdedNodes"]
+	path = Derfuu_ComfyUI_ModdedNodes
+	url = https://github.com/Derfuu/Derfuu_ComfyUI_ModdedNodes
+[submodule "efficiency-nodes-comfyui"]
+	path = efficiency-nodes-comfyui
+	url = https://github.com/jags111/efficiency-nodes-comfyui
+[submodule "Fooocus_Nodes.disabled"]
+	path = Fooocus_Nodes.disabled
+	url = https://github.com/Seedsa/Fooocus_Nodes
+[submodule "rgthree-comfy"]
+	path = rgthree-comfy
+	url = https://github.com/rgthree/rgthree-comfy
+[submodule "sdxl_prompt_styler"]
+	path = sdxl_prompt_styler
+	url = https://github.com/twri/sdxl_prompt_styler
+[submodule "was-node-suite-comfyui"]
+	path = was-node-suite-comfyui
+	url = https://github.com/WASasquatch/was-node-suite-comfyui
